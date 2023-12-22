@@ -1,2 +1,3 @@
-# Chrome-extension-
-Chrome to-do extension in JavaScript, I'm learning JS and trying to improve my skills 
+# Django
+I'll make an application using django
+I don't know yet what it will be, but I'm studying this framework and I want to create something
